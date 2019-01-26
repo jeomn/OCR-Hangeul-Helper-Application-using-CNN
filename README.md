@@ -1,2 +1,2 @@
 # Graduation_project
->Game with Genetic Algorithms
+>OCR Korean Helper for foreign tourist
