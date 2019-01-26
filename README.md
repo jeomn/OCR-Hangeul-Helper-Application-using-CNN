@@ -1,2 +1,2 @@
 # Graduation_project
->OCR Korean Helper for foreign tourist
+>OCR English Helper Application using CNN
