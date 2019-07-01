@@ -1,2 +1,2 @@
-# Graduation_project
->OCR English Helper Application using CNN
+# Korean-OCR-Application-using-CNN
+>OCR Korean Helper Application using CNN
