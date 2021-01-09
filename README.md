@@ -8,3 +8,4 @@
 
 
 <iframe width="640" height="360" src="https://youtu.be/7ExsqyKyKV8" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/7ExsqyKyKV8)
