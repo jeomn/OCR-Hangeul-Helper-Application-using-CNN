@@ -7,17 +7,18 @@
 ## System Diagram
 
 ## Development Resource
->Tool
-  OS : Windows 10 / Android 5.0, 7.0, 8.0
-  Android Studio
-  Pycharm
-  Node.js
-  MongoDB
->Language
-  Application : Java
-  Server : Javascript
-  Database : SQL
-  OCR : Python3
+Tool <br>
+  >OS : Windows 10 / Android 5.0, 7.0, 8.0 <br>
+  Android Studio <br>
+  Pycharm <br>
+  Node.js <br>
+  MongoDB <br>
+  
+Language <br>
+  >Application : Java <br>
+  Server : Javascript <br>
+  Database : SQL <br>
+  OCR : Python3 <br>
 
 ## Run
 <div>
