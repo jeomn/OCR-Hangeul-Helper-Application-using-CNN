@@ -35,7 +35,7 @@ Language <br>
 </div>
 
 ## Contributors
-### [jeomn](https://github.com/jeomn/Korean-OCR-Application-using-CNN)
+### [JEOMN](https://github.com/jeomn/Korean-OCR-Application-using-CNN)
 * OCR
 * CNN
 * 영상처리
