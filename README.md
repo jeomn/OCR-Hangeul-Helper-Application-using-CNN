@@ -36,14 +36,15 @@ Language <br>
 </div>
 
 ## Contributors
-### [jeomn](https://github.com/jeomn/Korean-OCR-Application-using-CNN/)
+### [jeomn](https://github.com/jeomn/Korean-OCR-Application-using-CNN)
 * OCR
 * CNN
 * 영상처리
 
-### JISOONLEE
+### [JISOONLEE](https://github.com/JISOONLEE/OCR-Korean-Helper-Application-using-CNN)
 * Server
 * MongoDB
-### GIHYEON0715
+
+### [HongHong0715](https://github.com/HongHong0715/OCR-Korean-Helper-Application-using-CNN)
 * Application
 * API
