@@ -36,9 +36,9 @@ Language <br>
 
 ## Contributors
 ### [JEOMN](https://github.com/jeomn/Korean-OCR-Application-using-CNN)
-* OCR
-* CNN
-* 영상처리
+* OCR 모듈
+* CNN 학습 모듈
+* 인식 이미지 전처리 모듈
 
 ### [JISOONLEE](https://github.com/JISOONLEE/OCR-Korean-Helper-Application-using-CNN)
 * Server
