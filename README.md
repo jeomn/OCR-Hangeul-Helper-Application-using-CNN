@@ -27,12 +27,12 @@ Language <br>
 
 ## Run
 <div>
-  <h2>Start~Conversations <br>
+  <h3>Start~Conversations <br>
   <img src="https://user-images.githubusercontent.com/46081831/104111216-bd02c180-5322-11eb-8f06-441ae60316da.gif">
-  </h2>
-  <h2>Pictures <br>
+  </h3>
+  <h3>Pictures <br>
   <img src="https://user-images.githubusercontent.com/46081831/104111220-c5f39300-5322-11eb-9374-9ed55d8321be.gif">
-  </h2>
+  </h3>
 </div>
 
 ## Contributors
