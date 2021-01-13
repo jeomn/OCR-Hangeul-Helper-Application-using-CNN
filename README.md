@@ -1,4 +1,4 @@
-# OCR-Korean-Helper-Application-using-CNN
+# OCR-Hangul(Hangeul)-Helper-Application-using-CNN
 [한국산업기술대학교 종합설계] 외국인 여행객을 위한 OCR 한글 도우미 어플리케이션
 
 ## Introduction
@@ -36,9 +36,9 @@ Language <br>
 
 ## Contributors
 ### [JEOMN](https://github.com/jeomn/Korean-OCR-Application-using-CNN)
-* OCR 모듈
-* CNN 학습 모듈
-* 인식 이미지 전처리 모듈
+* OCR Module
+* Hangul(Hangeul: Korean Alphabet) Learning Module Using CNN
+* Image Preprocessing Module
 
 ### [JISOONLEE](https://github.com/JISOONLEE/OCR-Korean-Helper-Application-using-CNN)
 * Server
