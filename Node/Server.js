@@ -12,8 +12,8 @@ var connection = mongoose.connection; //몽구스 연결
 connection.on('error', console.error.bind(console, 'connection error:'));
 var api_url = 'https://openapi.naver.com/v1/papago/n2mt';
 var request = require('request');
-var client_id = 'M1XICOLgvbvOqH2X6OgX';
-var client_secret = 'HThhehJrxR';
+var client_id = 'User's naver api ID';
+var client_secret = 'User's naver api PW';
 app.use(multer({
     dest: './uploads/',
     rename: function (fieldname, filename) {
