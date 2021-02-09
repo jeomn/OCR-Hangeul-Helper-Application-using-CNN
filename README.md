@@ -11,17 +11,16 @@
 <br>
 
 ## Development Resource
-Tool <br>
+### Tool <br>
   >OS : Windows 10 / Android 5.0, 7.0, 8.0 <br>
-  Android Studio <br>
-  Pycharm <br>
-  Node.js <br>
-  MongoDB <br>
-  
-Language <br>
+  IDE : Android Studio, Pycharm <br>
+  Software : Node.js, MongoDB <br>
+  API : NAVER Papago NMT API <br>
+    
+### Language <br>
   >Application : Java <br>
   Server : Javascript <br>
-  Database : SQL <br>
+  Database : MQL <br>
   OCR : Python3 <br>
 
 ## Run
@@ -35,7 +34,7 @@ Language <br>
 </div>
 
 ## Contributors
-### [JEOMN](https://github.com/jeomn/Korean-OCR-Application-using-CNN)
+### [Ji-Min Jeong](https://github.com/jeomn/Korean-OCR-Application-using-CNN)(jeomn)
 * OCR Module
 * Hangul(Hangeul: Korean Alphabet) Learning Module Using CNN
 * Image Preprocessing Module
