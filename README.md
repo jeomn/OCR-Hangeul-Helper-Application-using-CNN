@@ -41,8 +41,9 @@
 
 ### [JISOONLEE](https://github.com/JISOONLEE/OCR-Korean-Helper-Application-using-CNN)
 * Server
+* Translation API module
 * MongoDB
 
 ### [HongHong0715](https://github.com/HongHong0715/OCR-Korean-Helper-Application-using-CNN)
 * Application
-* API
+* Image crop&rotation module
